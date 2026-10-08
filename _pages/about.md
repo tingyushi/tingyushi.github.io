@@ -12,15 +12,13 @@ redirect_from:
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
 
-Hello, I'm Tingyu Shi.
+I’m Tingyu Shi (史霆宇), a Ph.D. student in College of Computer Science and Electronic Engineering at Hunan University. My research interests include continual learning and AI for healthcare. I earned my M.S. in Computer Science from the University of California San Diego and my B.Eng. in Software Engineering from McMaster University.
 
 ## Education
 
-- **Ph.D. in Computer Science (Incoming)**, Hunan University, 2026–2030  
+- **Ph.D. in Computer Science**, Hunan University, 2026–2030  
 - **M.S. in Computer Science**, University of California San Diego (UCSD), 2023–2025  
-  GPA: 3.96/4.0  
 - **B.Eng. in Software Engineering**, McMaster University, Canada, 2019–2023  
-  GPA: 3.96/4.0  
   Dean’s Honour List (2020–2023)
 
 ## Research Interests

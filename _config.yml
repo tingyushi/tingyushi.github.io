@@ -23,14 +23,14 @@ repository               : "tingyushi/tingyushi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo-3.jpg" # filename of avatar image placed in /images/ for author profile
+  avatar           : "linkedin_picture.jpeg" # filename of avatar image placed in /images/ for author profile
   name             : "Tingyu Shi"
   pronouns         : # example: "she/her"  
   bio              : "CS PhD Student"
   location         : "Hunan, China"
   employer         : "Hunan University"
   uri              : # URL
-  email            : "tshi6355@gmail.com" 
+  email            : "tyshi@hnu.edu.cn" 
 
   # Academic websites
   academia         : # URL
