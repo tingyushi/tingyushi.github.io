@@ -16,8 +16,8 @@ I’m Tingyu Shi (史霆宇), a Ph.D. student in College of Computer Science and
 
 ## Education
 
-- **Ph.D. in Computer Science**, Hunan University, 2026–2030  
-- **M.S. in Computer Science**, University of California San Diego (UCSD), 2023–2025  
+- **Ph.D. in Computer Science**, Hunan University, China, 2026–2030  
+- **M.S. in Computer Science**, University of California San Diego, USA, 2023–2025  
 - **B.Eng. in Software Engineering**, McMaster University, Canada, 2019–2023  
   Dean’s Honour List (2020–2023)
 
